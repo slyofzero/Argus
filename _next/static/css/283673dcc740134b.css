@@ -1,0 +1,19 @@
+.game-of-life_game__Z15eu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 9;
+    transition: opacity 1s var(--ease-out-expo);
+    pointer-events: none
+}
+
+.game-of-life_game__Z15eu:not(.game-of-life_visible__V3w7B) {
+    opacity: 0
+}
+
+.game-of-life_game__Z15eu canvas {
+    width: 100%;
+    height: 100%
+}

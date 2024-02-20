@@ -1,0 +1,9 @@
+.webgl_canvas__ZBxSL {
+    position: fixed;
+    inset: 0
+}
+
+.webgl_canvas__ZBxSL canvas {
+    width: 100% !important;
+    height: 100% !important
+}

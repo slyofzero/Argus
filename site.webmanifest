@@ -1,0 +1,25 @@
+{
+  "name": "Argus Labs",
+  "short_name": "argus",
+  "description": "We are committed to realizing a future where games are open, interoperable, and shaped by emergent gameplay. At the convergence of applied research and crypto-native tech, we are advancing way to build, play, and extend games.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#f5d64e",
+  "background_color": "#f5d64e",
+  "start_url": "/",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait"
+}
